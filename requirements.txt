@@ -1,0 +1,5 @@
+# Reddit Controls Minecraft Stream/Comment_Reader.py: 1,2
+praw == 7.1.0
+
+# Reddit Controls Minecraft Stream/Comment_Reader.py: 5
+pynput == 1.7.1
